@@ -102,7 +102,7 @@ def makeCompilation(path = "./",
     return description
     
 if __name__ == "__main__":
-    makeCompilation(path = "/Users/nathanan/Documents/YOUTUBE/AutomatedChannel/Videos/Memes/",
+    makeCompilation(path = "/Users/GD/Documents/YOUTUBE/AutomatedChannel/Videos/Memes/",
                     introName = "intro_vid.mp4",
                     outroName = '',
                     totalVidLength = 10*60,
