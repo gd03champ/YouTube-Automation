@@ -1,4 +1,4 @@
-# utube-auto
+# YouTube Automation
 This project is an attemt to make videos from instagram clips and upload to youtube all automatically! (Mid night ideas😂)
 And suprisingly I made it work!
 
